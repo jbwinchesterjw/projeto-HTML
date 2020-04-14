@@ -1,0 +1,46 @@
+/*h1::after{
+    content: "Médio";
+}*/
+
+main{
+    margin-top: 10px;
+}
+.sobre h1{
+    text-align: center;
+    margin-top: 30px;
+}
+.sobre p{
+    margin-top: 40px ;
+    text-align: justify;
+    line-height: 26px;
+}
+
+.sobre img{
+    border-radius: 15px;
+}
+.obras{
+    margin-top: 50px;
+}
+
+.obras h1{
+    text-align: center;
+}
+.obras img{
+    margin-top: 20px;
+    border-radius: 15px;
+}
+.comentarios{
+    margin-top: 30px;
+}
+.comentarios h1{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.comentarios .card img{
+    text-align: justify;
+    margin: 20px auto;
+}
+.comentarios .card p{
+    text-align: justify;
+    margin: 20px;
+}
